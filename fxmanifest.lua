@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Zyrox'
+author 'ZydeDevelopment'
 description 'Player Identity Script for ESX & QB-Core'
 version '1.0.0'
 
@@ -25,3 +25,4 @@ dependencies {
 }
 
 lua54 'yes'
+
