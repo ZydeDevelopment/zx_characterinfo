@@ -85,6 +85,11 @@ Config.Command = 'id' -- Change the command name
 
 Simply type `/id` in-game to display your character information in a clean context menu.
 
+## PREVIEW
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5c7c87f5-1bc6-4056-8399-8efde213d51b" />
+
+
 ## 🌍 Available Languages
 
 - 🇨🇿 Czech (cs)
@@ -110,3 +115,4 @@ Need help or have suggestions for improvements?
 ---
 
 ⭐ **If you like this resource, give it a star on GitHub!**
+
